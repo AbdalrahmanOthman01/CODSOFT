@@ -118,4 +118,4 @@ To get started with any of the projects, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/codsoft-internship-projects.git
+   git clone https://github.com/AbdalrahmanOthman01/CODSOFT.git
