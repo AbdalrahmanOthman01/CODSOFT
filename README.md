@@ -6,7 +6,7 @@
 The goal of this project is to build a model that predicts whether a passenger on the Titanic survived or not. The dataset includes features such as age, gender, ticket class, fare, cabin, and survival status.
 
 **Dataset**:  
-[Link to Dataset]([#](https://www.google.com/url?sa=D&q=https://www.kaggle.com/datasets/yasserh/titanic-dataset&ust=1743173100000000&usg=AOvVaw1IDlOz0CGk-8f8zOYboqGZ&hl=en))
+[Link to Dataset](https://www.google.com/url?sa=D&q=https://www.kaggle.com/datasets/yasserh/titanic-dataset&ust=1743173100000000&usg=AOvVaw1IDlOz0CGk-8f8zOYboqGZ&hl=en)
 
 **Techniques Used**:  
 - Data Preprocessing
